@@ -11,3 +11,10 @@ This project is a recreation of the iconic Pac-Man game, allowing players to nav
 * **Lives System**: Start with multiple lives and lose one upon collision with a regular ghost.
 * **Game Over and Win Conditions**: See a "Game Over" screen if you run out of lives or a "Victory!" screen if you clear the maze of all pellets.
 * **Dynamic Board Generation**: The game board is defined by a numerical matrix, allowing for easy modification or creation of new levels.
+
+## Game Objectives:
+
+* Eat all the small white dots (pellets) on the board to clear the level.
+* Eat the larger white dots (power pellets) to temporarily turn the ghosts blue and vulnerable. When ghosts are blue, you can eat them for bonus points!
+* Avoid contact with the ghosts when they are in their regular state.
+* If you collide with a ghost in its regular state, you lose a life. Lose all lives, and it's game over!
